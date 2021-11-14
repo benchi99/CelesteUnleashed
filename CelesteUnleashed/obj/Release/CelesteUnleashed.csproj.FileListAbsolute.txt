@@ -1,0 +1,5 @@
+D:\proyectos\CelesteUnleashed\csharpproj\CelesteUnleashed\CelesteUnleashed\bin\Release\CelesteUnleashed.dll
+D:\proyectos\CelesteUnleashed\csharpproj\CelesteUnleashed\CelesteUnleashed\bin\Release\CelesteUnleashed.pdb
+D:\proyectos\CelesteUnleashed\csharpproj\CelesteUnleashed\CelesteUnleashed\obj\Release\CelesteUnleashed.csproj.CoreCompileInputs.cache
+D:\proyectos\CelesteUnleashed\csharpproj\CelesteUnleashed\CelesteUnleashed\obj\Release\CelesteUnleashed.dll
+D:\proyectos\CelesteUnleashed\csharpproj\CelesteUnleashed\CelesteUnleashed\obj\Release\CelesteUnleashed.pdb
